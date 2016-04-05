@@ -1,15 +1,14 @@
 # ArchivosAngular
 # UTN FRA 2016
-#----------------------------------------------------#
 
 Ejemplo de la carga de archivos usando Angularjs, el modulo Angular File Upload y Bootstrap.
 
 Documentacion de File Upload:
-	https://github.com/nervgh/angular-file-upload/wiki/Module-API
+	https://github.com/nervgh/angular-file-upload/wiki/Module-API.
 Documentacion de Angularjs:
-	https://docs.angularjs.org/api
+	https://docs.angularjs.org/api.
 Documentacion de Bootstrap:
-	http://getbootstrap.com/components/
+	http://getbootstrap.com/components/.
 
 **** USO BASICO ****
 1- Descargar el modulo File Upload y cargarlo en el index.html.
