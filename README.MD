@@ -10,7 +10,7 @@ Documentacion de Angularjs:
 Documentacion de Bootstrap:
 	http://getbootstrap.com/components/.
 
-**** USO BASICO ****
+# USO BASICO
 1- Descargar el modulo File Upload y cargarlo en el index.html.
 
 2- Incluir la dependencia 'angularFileUpload' en mi modulo angular.
@@ -21,7 +21,7 @@ Documentacion de Bootstrap:
 
 5- Inicializar el uploader: $scope.uploader = new FileUploader({url: 'php/upload.php'}), en mi controlador.
 
-6- Creamos el archivo upload.php que es el que se encarga de cargar los archivos
+6- Creamos el archivo upload.php que es el que se encarga de cargar los archivos.
 
 7- En el form html crear un input tipo "file" con la directiva nvFileSelect y el uploader:
 	<input type="file" nv-file-select uploader="uploader"/>.
