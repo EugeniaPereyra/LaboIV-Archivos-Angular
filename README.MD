@@ -92,10 +92,10 @@ if ( !empty( $_FILES ) ) {
         </li>		
     </ul>
 ```
-**9**- Para cargar los archivos tenemos dos maneras:
+**9**- Para cargar los archivos tenemos dos maneras:<br>
 	**a**- Recorrermos la propiedad uploader.queue, que tiene los archivos a cargar, y usamos los metodos de c/u:
-		remove(), upload() y cancel()*.
-	**b** Utilizamos los metodos del uploader:
-		uploadAll(), cancelAll(), uploadItem(item), cancelItem(item)*.
+		remove(), upload() y cancel()*.<br>
+	**b**- Utilizamos los metodos del uploader:
+		uploadAll(), cancelAll(), uploadItem(item), cancelItem(item)*.<br>
 	* Ver en la documentacion todas las propiedades, metodos y callbacks disponibles.
 
